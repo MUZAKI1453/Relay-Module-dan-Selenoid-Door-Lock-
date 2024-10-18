@@ -1,4 +1,4 @@
-int relay_pin = 7;
+int relay_pin = A5;
 
 
 void setup() {
